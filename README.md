@@ -32,7 +32,7 @@ Any questions let us know!
 <!-- DO NOT EDIT THIS SECTION -->
 <!--START_SECTION:data-section-->
 <table width="100%"><tr><td align="center"><p>
-<a href="https://github.com/VasudevJaiswal">Vasudev Jaiswal</a></p><img src="https://user-images.githubusercontent.com/85981735/129255772-5bac726e-d98e-4eb4-8c9f-c2206b72c976.png" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles
+<a href="https://github.com/VasudevJaiswal">Vasudev Jaiswal</a></p><img src="![vasu](![vasu](https://user-images.githubusercontent.com/85981735/130240422-6ad78d08-6873-4e7e-aa24-423f114cd4a1.png)" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles
 /issues/641">(:100: give your vote)
 
 </td><td></td><td></td></tr></table>
