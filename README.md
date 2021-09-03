@@ -1,4 +1,4 @@
-# Unique Github Profiles 🙋‍♂️
+# Unique Github Profiles
 
 **Join the conversation on our [Discord community](https://discord.gg/wXFWgsAuzR)!**
 
