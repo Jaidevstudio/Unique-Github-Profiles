@@ -31,9 +31,14 @@ Any questions let us know!
 
 <!-- DO NOT EDIT THIS SECTION -->
 <!--START_SECTION:data-section-->
-<table width="100%"><tr><td align="center"><p>
-<a href="https://github.com/VasudevJaiswal">Vasudev Jaiswal</a></p><img src="https://user-images.githubusercontent.com/85981735/130241658-ac460c8b-6c3e-4b0c-a8ee-76af0b1576fc.png" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles
-/issues/641">(:100: give your vote)
 
-</td><td></td><td></td></tr></table>
+<table width="100%"><tr>
+ 
+<td align="center"><p>
+<a href="https://github.com/VasudevJaiswal">Vasudev Jaiswal</a></p><img src="https://github.com/VasudevJaiswal/VasudevJaiswal/blob/main/Screenshot%20(104).png?raw=true" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles
+/issues/1">(:100: give your vote)
+ 
+ <td align="center"><p><a href="https://github.com/CodingSpecies">Coding Species</a></p><img src="https://user-images.githubusercontent.com/70807500/131972052-cf42e215-e2e9-4f1b-a63a-d768a8c79dd9.png" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles
+/issues/2">(💯 give your vote)</a></p></td>
+ </td></tr></table>
 <!--END_SECTION:data-section-->
