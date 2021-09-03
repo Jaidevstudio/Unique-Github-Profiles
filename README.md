@@ -41,5 +41,9 @@ Any questions let us know!
  
  <td align="center"><p><a href="https://github.com/CodingSpecies">Coding Species</a></p><img src="https://user-images.githubusercontent.com/70807500/131972052-cf42e215-e2e9-4f1b-a63a-d768a8c79dd9.png" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles
 /issues/2">(💯 give your vote)</a></p></td>
+ 
+  <td align="center"><p><a href="https://github.com/AvidCoder101">AvidCoder101</a></p><img src="https://user-images.githubusercontent.com/70807684/132053785-2a4d2cb5-a6f3-45a0-b2f1-1d5969282017.png" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles
+/issues/5">(💯 give your vote)</a></p></td>
+ 
  </td></tr></table>
 <!--END_SECTION:data-section-->
