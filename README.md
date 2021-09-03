@@ -1,5 +1,6 @@
 # Unique Github Profiles
 
+**Join the conversation on our [Discord community](https://discord.gg/wXFWgsAuzR)!**
 
 List of GitHub profiles that have Unique customisation, that you can use for inspiration.
 
