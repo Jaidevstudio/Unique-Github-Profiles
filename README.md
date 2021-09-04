@@ -1,10 +1,20 @@
+<div align="center">
+
 # Unique Github Profiles 🙋‍♂️
 
 **Join the conversation on our [Discord community](https://discord.gg/wXFWgsAuzR)!**
+ 
+![](https://img.shields.io/static/v1?label=Open-Source&message=Contribute&color=yellow)
+![](https://img.shields.io/static/v1?label=Inspiring&message=Github-Profiles&color=blue)
+![](https://img.shields.io/static/v1?label=Made-With&message=Markdown&color=green)
 
-List of GitHub profiles that have Unique customisation, that you can use for inspiration.
+List of GitHub profiles that have **unique** customisation, that you can use for inspiration. ✨
 
-Feel free to submit a pull request with your suggestions of Unique github profiles.
+Feel free to submit a pull request with your suggestions of Unique GitHub profiles.
+ 
+ </div>
+ 
+ ------------------------
 
 ## To add your github profile
 
