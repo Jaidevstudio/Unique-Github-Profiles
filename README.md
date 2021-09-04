@@ -45,5 +45,8 @@ Any questions let us know!
   <td align="center"><p><a href="https://github.com/AvidCoder101">AvidCoder101</a></p><img src="https://user-images.githubusercontent.com/70807684/132053785-2a4d2cb5-a6f3-45a0-b2f1-1d5969282017.png" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles
 /issues/5">(💯 give your vote)</a></p></td>
  
+ <td align="center"><p><a href="https://github.com/JayantGoel001">JayantGoel001</a></p><img src="https://user-images.githubusercontent.com/54479676/132067584-ad4a1ba2-2b46-43bc-afa6-c4a1c354b4ac.png" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles
+/issues/7">(💯 give your vote)</a></p></td>
+ 
  </td></tr></table>
 <!--END_SECTION:data-section-->
