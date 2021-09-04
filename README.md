@@ -1,5 +1,3 @@
-<div align="center">
-
 # Unique Github Profiles 🙋‍♂️
 
 **Join the conversation on our [Discord community](https://discord.gg/wXFWgsAuzR)!**
@@ -11,8 +9,6 @@
 List of GitHub profiles that have **unique** customisation, that you can use for inspiration. ✨
 
 Feel free to submit a pull request with your suggestions of Unique GitHub profiles.
- 
- </div>
  
  ------------------------
 
