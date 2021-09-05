@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "CodingSpecies",
+      "name": "CodingSpecies",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70807500?v=4",
+      "profile": "https://codingspecies.github.io/MeAndMyApps/",
+      "contributions": [
+        "projectManagement",
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Unique-Github-Profiles",
+  "projectOwner": "Jaidevstudio",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
