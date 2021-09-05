@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "JayantGoel001",
+      "name": "Jayant Goel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54479676?v=4",
+      "profile": "http://JayantGoel001.github.io",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Unique-Github-Profiles",
+  "projectOwner": "Jaidevstudio",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
