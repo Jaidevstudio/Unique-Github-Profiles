@@ -9,17 +9,17 @@
 ![](https://img.shields.io/static/v1?label=Inspiring&message=Github-Profiles&color=blue)
 ![](https://img.shields.io/static/v1?label=Made-With&message=Markdown&color=green)
 
-List of GitHub profiles that have **unique** customisation, that you can use for inspiration. ✨
+Take a look at some GitHub user profiles, which you can you for *inspiration*, *ideas* or just to look at and approve!
 
-Feel free to submit a pull request with your suggestions of Unique GitHub profiles.
+Why not contribute and add your own profile, by creating a pull request?
  
  ------------------------
 
-## To add your github profile
+## To add your GitHub profile:
 
-1. Create an issue, with the title as your name, and in the description put a screenshot of the customised GitHub profile page (copy the generated image url, this will be needed in the next step)
+1. Make an [issue](https://github.com/Jaidevstudio/Unique-Github-Profiles/issues) setting the title as your name, and ass your image url in. Simply take a screenshot of your profile, and paste it in the comment, or upload it, and copy image address.
 
-2. Fork the project
+2. [x] Fork the project.
 
 3. In `data.json` add your own object to the end of the file, your entry should be similar to this example:
 
@@ -34,9 +34,9 @@ Feel free to submit a pull request with your suggestions of Unique GitHub profil
 
 **Note** : Please do not edit anything below `<!--START_SECTION:data-section-->` in `README.MD` our [GitHub Action](https://github.com/Jaidevstudio/gh-action-community) will make the necessary changes for you.
 
-4. Create a Pull Request to add the changes to this Repository. Please change the title to `add your-username` and in the description add `resolve #issueNumber`
+4. Now, create a pull request for your added changes, make the pull request title`add your-username` and in the description add `resolve #issueNumber`.
 
-Any questions let us know!
+Any questions, feel free to ask!
 
 
 <!-- DO NOT EDIT THIS SECTION -->
@@ -46,7 +46,7 @@ Any questions let us know!
  
 <td align="center"><p>
 <a href="https://github.com/VasudevJaiswal">Vasudev Jaiswal</a></p><img src="https://github.com/VasudevJaiswal/VasudevJaiswal/blob/main/Screenshot%20(104).png?raw=true" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles
-/issues/1">(:100: give your vote)
+/issues/1">( 💯 give your vote)
  
  <td align="center"><p><a href="https://github.com/CodingSpecies">Coding Species</a></p><img src="https://user-images.githubusercontent.com/70807500/131972052-cf42e215-e2e9-4f1b-a63a-d768a8c79dd9.png" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles
 /issues/2">(💯 give your vote)</a></p></td>
