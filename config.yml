@@ -1,1 +1,22 @@
+ #Configuration for welcome - https://github.com/behaviorbot/welcome
 
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: >
+  Thanks for opening your issue here! The JD Studio team will come and review your work very soon! In the mean time, why not make a new issue, to become a memeber of the organisation!
+
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+
+# Comment to be posted to on PRs from first time contributors in your repository
+newPRWelcomeComment: >
+  Thanks for opening this pull request! The JD Studio team will come and review your work very soon! In the mean time, why not make a new issue, to become a memeber of the organisation!
+
+
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+
+# Comment to be posted to on pull requests merged by a first time user
+firstPRMergeComment: >
+ 🥳 Congrats on merging your first pull request! We are very proud!!! Don't stop contributing! If you haven't yet got an invite, ask for one, and contribute the other repos here! 🥳
+
+# It is recommend to include as many gifs and emojis as possible
