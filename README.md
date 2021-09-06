@@ -56,6 +56,9 @@ Any questions let us know!
  
  <tr><td align="center"><p><a href="https://github.com/JayantGoel001">JayantGoel001</a></p><img src="https://user-images.githubusercontent.com/54479676/132067584-ad4a1ba2-2b46-43bc-afa6-c4a1c354b4ac.png" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles
 /issues/7">(💯 give your vote)</a></p></td>
+
+<td align="center"><p><a href="https://github.com/FayasNoushad">Fayas Noushad</a></p><img src="https://user-images.githubusercontent.com/76828314/132162846-8e55ec2c-90de-4f9a-8c12-e8254a942f0f.jpg" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles
+/issues/15">(💯 give your vote)</a></p></td>
  
  </td></tr></table>
 <!--END_SECTION:data-section-->
