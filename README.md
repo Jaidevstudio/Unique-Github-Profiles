@@ -60,6 +60,9 @@ Any questions, feel free to ask!
 <td align="center"><p><a href="https://github.com/FayasNoushad">Fayas Noushad</a></p><img src="https://user-images.githubusercontent.com/76828314/132162846-8e55ec2c-90de-4f9a-8c12-e8254a942f0f.jpg" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles
 /issues/15">(💯 give your vote)</a></p></td>
  
+<td align="center"><p><a href="https://github.com/motasimmakki">Motasim</a></p><img src="https://user-images.githubusercontent.com/44056349/132171204-ab3aaffc-15ae-423f-aa06-e49f1420b931.png" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles
+/issues/15">(💯 give your vote)</a></p></td>
+  
  </td></tr></table>
 <!--END_SECTION:data-section-->
 
