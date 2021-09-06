@@ -19,7 +19,7 @@ Why not contribute and add your own profile, by creating a pull request?
 
 1. Make an [issue](https://github.com/Jaidevstudio/Unique-Github-Profiles/issues) setting the title as your name, and ass your image url in. Simply take a screenshot of your profile, and paste it in the comment, or upload it, and copy image address.
 
-2. [x] Fork the project.
+2. Fork the project.
 
 3. In `data.json` add your own object to the end of the file, your entry should be similar to this example:
 
