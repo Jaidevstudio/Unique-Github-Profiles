@@ -79,6 +79,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/akshita-gupta-a4a895187"><img src="https://avatars.githubusercontent.com/u/57909583?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AKSHITA GUPTA</b></sub></a><br /><a href="#content-akshitagupta15june" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/motasim-010b0a135/"><img src="https://avatars.githubusercontent.com/u/44056349?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Motasim</b></sub></a><br /><a href="#content-motasimmakki" title="Content">🖋</a></td>
     <td align="center"><a href="https://blog.fayas.me"><img src="https://avatars.githubusercontent.com/u/76828314?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fayas Noushad</b></sub></a><br /><a href="#content-FayasNoushad" title="Content">🖋</a></td>
     <td align="center"><a href="http://JayantGoel001.github.io"><img src="https://avatars.githubusercontent.com/u/54479676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jayant Goel</b></sub></a><br /><a href="#content-JayantGoel001" title="Content">🖋</a></td>
