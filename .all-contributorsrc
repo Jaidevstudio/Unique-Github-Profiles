@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "akshitagupta15june",
+      "name": "AKSHITA GUPTA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57909583?v=4",
+      "profile": "https://www.linkedin.com/in/akshita-gupta-a4a895187",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Unique-Github-Profiles",
+  "projectOwner": "Jaidevstudio",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
