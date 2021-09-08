@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "FayasNoushad",
+      "name": "Fayas Noushad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76828314?v=4",
+      "profile": "https://blog.fayas.me",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Unique-Github-Profiles",
+  "projectOwner": "Jaidevstudio",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
