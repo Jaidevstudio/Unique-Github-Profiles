@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "VasudevJaiswal",
+      "name": "Vasudev Jaiswal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85981735?v=4",
+      "profile": "https://vasudevjaiswal.com",
+      "contributions": [
+        "content",
+        "projectManagement",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Unique-Github-Profiles",
+  "projectOwner": "Jaidevstudio",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
