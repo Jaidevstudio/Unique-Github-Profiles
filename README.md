@@ -80,6 +80,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://blog.fayas.me"><img src="https://avatars.githubusercontent.com/u/76828314?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fayas Noushad</b></sub></a><br /><a href="#content-FayasNoushad" title="Content">🖋</a></td>
+    <td align="center"><a href="http://JayantGoel001.github.io"><img src="https://avatars.githubusercontent.com/u/54479676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jayant Goel</b></sub></a><br /><a href="#content-JayantGoel001" title="Content">🖋</a></td>
+    <td align="center"><a href="https://avidcoder101.github.io"><img src="https://avatars.githubusercontent.com/u/70807684?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AvidCoder</b></sub></a><br /><a href="#content-AvidCoder101" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/RidhiJaiswal"><img src="https://avatars.githubusercontent.com/u/87558815?v=4?s=100" width="100px;" alt=""/><br /><sub><b>RidhiJaiswal</b></sub></a><br /><a href="#content-RidhiJaiswal" title="Content">🖋</a></td>
+    <td align="center"><a href="https://codingspecies.github.io/MeAndMyApps/"><img src="https://avatars.githubusercontent.com/u/70807500?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CodingSpecies</b></sub></a><br /><a href="#projectManagement-CodingSpecies" title="Project Management">📆</a> <a href="#content-CodingSpecies" title="Content">🖋</a></td>
+    <td align="center"><a href="https://vasudevjaiswal.com"><img src="https://avatars.githubusercontent.com/u/85981735?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vasudev Jaiswal</b></sub></a><br /><a href="#content-VasudevJaiswal" title="Content">🖋</a> <a href="#projectManagement-VasudevJaiswal" title="Project Management">📆</a> <a href="https://github.com/Jaidevstudio/Unique-Github-Profiles/commits?author=VasudevJaiswal" title="Documentation">📖</a></td>
   </tr>
 </table>
 
