@@ -64,12 +64,14 @@ Any questions, feel free to ask!
 /issues/15">(💯 give your vote)</a></p></td>
   
   <tr><td align="center"><p><a href="https://github.com/akshitagupta15june">Akshita Gupta</a></p><img src="https://user-images.githubusercontent.com/57909583/132528627-8633b9ca-f377-414f-bfec-f53a5a406986.png" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles
-/issues/20">(💯 give your vote)</a></p></td>
+/issues/20">(💯 give your vote)</a></p></td> 
+   
+ </tr>
   
  </td></tr></table>
 <!--END_SECTION:data-section-->
 
-## Contributors ✨
+## Maintainers ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
