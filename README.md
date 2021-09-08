@@ -17,7 +17,7 @@ Why not contribute and add your own profile, by creating a pull request?
 
 ## To add your GitHub profile:
 
-1. Make an [issue](https://github.com/Jaidevstudio/Unique-Github-Profiles/issues) setting the title as your name, and ass your image url in. Simply take a screenshot of your profile, and paste it in the comment, or upload it, and copy image address.
+1. Make an [issue](https://github.com/Jaidevstudio/Unique-Github-Profiles/issues) setting the title as your name, and add your image url in it. Simply take a screenshot of your profile, and paste it in the comment, or upload it, and copy image address.
 
 2. Fork the project.
 
