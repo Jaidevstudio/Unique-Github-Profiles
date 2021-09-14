@@ -66,7 +66,7 @@ Any questions, feel free to ask!
   <tr>
    <td align="center"><p><a href="https://github.com/akshitagupta15june">Akshita Gupta</a></p><img src="https://user-images.githubusercontent.com/57909583/132528627-8633b9ca-f377-414f-bfec-f53a5a406986.png" /><p><a href="https://github.com/Jaidevstudio/Unique-Github-Profiles/pull/21">(💯 give your vote)</a></p></td> 
 
- <td align="center"><p><a href="https://github.com/AlenJojo">Alen Jojo</a></p><img src="https://user-images.githubusercontent.com/51394913/133300175-55e3898e-59c4-46e4-b6fb-29c4ceb70ac2.png" /><p><a href="https://github.com/Jaidevstudio/Unique-Github-Profiles/pull/21">(💯 give your vote)</a></p></td> 
+ <td align="center"><p><a href="https://github.com/AlenJojo">Alen Jojo</a></p><img src="https://user-images.githubusercontent.com/51394913/133300175-55e3898e-59c4-46e4-b6fb-29c4ceb70ac2.PNG" /><p><a href="https://github.com/Jaidevstudio/Unique-Github-Profiles/pull/21">(💯 give your vote)</a></p></td> 
    
  </tr>
   
