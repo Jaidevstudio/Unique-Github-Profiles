@@ -46,13 +46,13 @@ Any questions, feel free to ask!
  
 <td align="center"><p>
 <a href="https://github.com/VasudevJaiswal">Vasudev Jaiswal</a></p><img src="https://github.com/VasudevJaiswal/VasudevJaiswal/blob/main/Screenshot%20(104).png?raw=true" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles
-/issues/1">( 💯 give your vote)
+/issues/1">( 💯 give your vote)<>
  
  <td align="center"><p><a href="https://github.com/CodingSpecies">Coding Species</a></p><img src="https://user-images.githubusercontent.com/70807500/131972052-cf42e215-e2e9-4f1b-a63a-d768a8c79dd9.png" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles
 /issues/2">(💯 give your vote)</a></p></td>
  
   <td align="center"><p><a href="https://github.com/AvidCoder101">AvidCoder101</a></p><img src="https://user-images.githubusercontent.com/70807684/132053785-2a4d2cb5-a6f3-45a0-b2f1-1d5969282017.png" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles
-/issues/5">(💯 give your vote)</a></p></td>
+/issues/5">(💯 give your vote)</a></p></td></tr>
  
  <tr><td align="center"><p><a href="https://github.com/JayantGoel001">JayantGoel001</a></p><img src="https://user-images.githubusercontent.com/54479676/132067584-ad4a1ba2-2b46-43bc-afa6-c4a1c354b4ac.png" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles
 /issues/7">(💯 give your vote)</a></p></td>
@@ -61,7 +61,7 @@ Any questions, feel free to ask!
 /issues/15">(💯 give your vote)</a></p></td>
  
 <td align="center"><p><a href="https://github.com/motasimmakki">Motasim</a></p><img src="https://user-images.githubusercontent.com/44056349/132171204-ab3aaffc-15ae-423f-aa06-e49f1420b931.png" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles
-/issues/15">(💯 give your vote)</a></p></td>
+/issues/15">(💯 give your vote)</a></p></td></tr>
   
   <tr>
    <td align="center"><p><a href="https://github.com/akshitagupta15june">Akshita Gupta</a></p><img src="https://user-images.githubusercontent.com/57909583/132528627-8633b9ca-f377-414f-bfec-f53a5a406986.png" /><p><a href="https://github.com/Jaidevstudio/Unique-Github-Profiles/pull/21">(💯 give your vote)</a></p></td> 
@@ -69,16 +69,14 @@ Any questions, feel free to ask!
  <td align="center"><p><a href="https://github.com/AlenJojo">Alen Jojo</a></p><img src="https://user-images.githubusercontent.com/51394913/133300175-55e3898e-59c4-46e4-b6fb-29c4ceb70ac2.PNG" /><p><a href="https://github.com/Jaidevstudio/Unique-Github-Profiles/pull/21">(💯 give your vote)</a></p></td>
    
 
- <td align="center"><p><a href="https://github.com/aman34503">Aman shrivastava</a></p><img src="https://user-images.githubusercontent.com/77502312/134847485-1f7da239-0ce9-4a56-beb8-f2c380305ae6.png" /><p><a href="https://github.com/Jaidevstudio/Unique-Github-Profiles/pull/21">(💯 give your vote)</a></p></td> 
-   
- </tr>
+ <td align="center"><p><a href="https://github.com/aman34503">Aman shrivastava</a></p><img src="https://user-images.githubusercontent.com/77502312/134847485-1f7da239-0ce9-4a56-beb8-f2c380305ae6.png" /><p><a href="https://github.com/Jaidevstudio/Unique-Github-Profiles/pull/21">(💯 give your vote)</a></p></td> </tr>
   
- </td></tr></table>
+ </table>
 <!--END_SECTION:data-section-->
 
 ## Maintainers ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people <a href="https://allcontributors.org/docs/en/emoji-key">emoji key</a>
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -93,8 +91,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/RidhiJaiswal"><img src="https://avatars.githubusercontent.com/u/87558815?v=4?s=100" width="100px;" alt=""/><br /><sub><b>RidhiJaiswal</b></sub></a><br /><a href="#content-RidhiJaiswal" title="Content">🖋</a></td>
     <td align="center"><a href="https://codingspecies.github.io/MeAndMyApps/"><img src="https://avatars.githubusercontent.com/u/70807500?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CodingSpecies</b></sub></a><br /><a href="#projectManagement-CodingSpecies" title="Project Management">📆</a> <a href="#content-CodingSpecies" title="Content">🖋</a></td>
     <td align="center"><a href="https://vasudevjaiswal.com"><img src="https://avatars.githubusercontent.com/u/85981735?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vasudev Jaiswal</b></sub></a><br /><a href="#content-VasudevJaiswal" title="Content">🖋</a> <a href="#projectManagement-VasudevJaiswal" title="Project Management">📆</a> <a href="https://github.com/Jaidevstudio/Unique-Github-Profiles/commits?author=VasudevJaiswal" title="Documentation">📖</a></td>
-   <td align="center"><a href="https://aman04.netlify.app/"><img src="https://avatars.githubusercontent.com/u/77502312?v=4?=100" width="100px;" alt=""/><br /><sub><b>Aman shrivastava</b></sub></a><br /><a href="#content-aman34503
-" title="Content">🖋</a></td>
+   <td align="center"><a href="https://aman04.netlify.app/"><img src="https://avatars.githubusercontent.com/u/77502312?v=4?=100" width="100px;" alt=""/><br /><sub><b>Aman shrivastava</b></sub></a><br /><a href="#content-aman34503" title="Content">🖋</a></td>
   </tr>
 </table>
 
@@ -103,4 +100,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the <a href="https://github.com/all-contributors/all-contributors">all-contributors</a> specification. Contributions of any kind welcome!
