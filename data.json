@@ -47,18 +47,24 @@
     "imageUrl": "https://user-images.githubusercontent.com/51394913/133300175-55e3898e-59c4-46e4-b6fb-29c4ceb70ac2.PNG",
     "issueNumber": 36
   },
-{
-  "name": "Aman shrivastava",
-    "githubUsername": "aman34503",
-    "imageUrl": " https://user-images.githubusercontent.com/77502312/134847485-1f7da239-0ce9-4a56-beb8-f2c380305ae6.png",
-    "issueNumber": 38
-}
- {
+  {
+    "name": "Aman shrivastava",
+      "githubUsername": "aman34503",
+      "imageUrl": " https://user-images.githubusercontent.com/77502312/134847485-1f7da239-0ce9-4a56-beb8-f2c380305ae6.png",
+      "issueNumber": 38
+  },
+  {
     "name": "Hassan Tahir",
     "githubUsername": "thehassantahir",
     "imageUrl": "https://user-images.githubusercontent.com/54933420/142648220-b50d0973-ad51-46ad-ab3e-7ecf9d5c24f2.png",
     "issueNumber": 42
-  }
+  },
+  {
+      "name": "Tran Nguyen Thuong Truong",
+      "githubUsername": "thuongtruong1009",
+      "imageUrl": "https://avatars.githubusercontent.com/u/71834167?v=4",
+      "issueNumber": 27
+    },
 
 ]
 
