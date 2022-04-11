@@ -75,7 +75,7 @@ Any questions, feel free to ask!
   
    <td align="center"><p><a href="https://github.com/thehassantahir">Hassan Tahir </a></p><img src="https://user-images.githubusercontent.com/54933420/142648220-b50d0973-ad51-46ad-ab3e-7ecf9d5c24f2.png" /><p><a href="https://github.com/Jaidevstudio/Unique-Github-Profiles/pull/21">(💯 give your vote)</a></p></td>
   
-<td align="center"><p><a href="https://github.com/trinib">Trinib</a></p><img src="https://i.imgur.com/LVDmNmH.png" /><p><a href="https://github.com/Jaidevstudio/Unique-Github-Profiles/pull/21">(💯 give your vote)</a></p></td>
+<td align="center"><p><a href="https://github.com/trinib">Trinib</a></p><img src="https://i.imgur.com/LVDmNmH.png" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles/issues/50">(💯 give your vote)</a></p></td>
   
  </tr>
   
