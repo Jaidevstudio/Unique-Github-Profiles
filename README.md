@@ -76,6 +76,8 @@ Any questions, feel free to ask!
    <td align="center"><p><a href="https://github.com/thehassantahir">Hassan Tahir </a></p><img src="https://user-images.githubusercontent.com/54933420/142648220-b50d0973-ad51-46ad-ab3e-7ecf9d5c24f2.png" /><p><a href="https://github.com/Jaidevstudio/Unique-Github-Profiles/pull/21">(💯 give your vote)</a></p></td>
   
 <td align="center"><p><a href="https://github.com/trinib">Trinib</a></p><img src="https://i.imgur.com/LVDmNmH.png" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles/issues/50">(💯 give your vote)</a></p></td>
+
+<td align="center"><p><a href="https://github.com/Im-vishalanand">Vishal Anand</a></p><img src="https://user-images.githubusercontent.com/108060013/213879540-fc086155-b01a-4713-b5d7-4ede439da924.png" /><p><a href="https://github.com/jaidevstudio/Unique-Github-Profiles/issues/50">(💯 give your vote)</a></p></td>
   
  </tr>
   
@@ -100,6 +102,8 @@ Thanks goes to these wonderful people <a href="https://allcontributors.org/docs/
     <td align="center"><a href="https://codingspecies.github.io/MeAndMyApps/"><img src="https://avatars.githubusercontent.com/u/70807500?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CodingSpecies</b></sub></a><br /><a href="#projectManagement-CodingSpecies" title="Project Management">📆</a> <a href="#content-CodingSpecies" title="Content">🖋</a></td>
     <td align="center"><a href="https://vasudevjaiswal.com"><img src="https://avatars.githubusercontent.com/u/85981735?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vasudev Jaiswal</b></sub></a><br /><a href="#content-VasudevJaiswal" title="Content">🖋</a> <a href="#projectManagement-VasudevJaiswal" title="Project Management">📆</a> <a href="https://github.com/Jaidevstudio/Unique-Github-Profiles/commits?author=VasudevJaiswal" title="Documentation">📖</a></td>
    <td align="center"><a href="https://aman04.netlify.app/"><img src="https://avatars.githubusercontent.com/u/77502312?v=4?=100" width="100px;" alt=""/><br /><sub><b>Aman shrivastava</b></sub></a><br /><a href="#content-aman34503" title="Content">🖋</a></td>
+   
+      
    
   </tr>
 </table>
